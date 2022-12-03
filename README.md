@@ -2,3 +2,4 @@
 - 👀 I’m interested in Hardware Development
 - 🌱 I’m currently learning Lua,Luau, C#,C++,C
 - 📫 How to reach me(Could Change) Visual-Individual#8778
+- Making a game (Text Adventure)
